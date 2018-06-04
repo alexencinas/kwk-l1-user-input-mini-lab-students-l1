@@ -3,3 +3,4 @@ def about_me
   puts " I grew up in Phoenix, AZ"
   puts "I am 17 years old"
   puts "My favorite food is tacos"
+end
