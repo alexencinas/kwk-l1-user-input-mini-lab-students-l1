@@ -4,4 +4,4 @@ end
 greeting
 
 def  choice greeting
-  get
+  
