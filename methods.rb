@@ -5,3 +5,5 @@ def about_me
   puts "My favorite food is tacos"
 end
 about_me
+def greeting
+  puts "Hi Jane, I'm Karlie"
